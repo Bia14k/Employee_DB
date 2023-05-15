@@ -1,0 +1,1 @@
+select ssn from employee;
